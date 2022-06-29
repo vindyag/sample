@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "from": "Leyton",
+    "to": "Paradise",
+    "avgTime": 10
+  },
+  {
+    "id": 2,
+    "from": "Leyton",
+    "to": "Waterloo",
+    "avgTime": 8
+  },
+  {
+    "id": 3,
+    "from": "Waterloo",
+    "to": "Paradise",
+    "avgTime": 5
+  }
+]
